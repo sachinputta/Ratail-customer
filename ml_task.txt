@@ -1,4 +1,4 @@
-Th following are the questions to be answered:
+The following are the questions to be answered:
 
 1)  Top 5  product category sales  which are dependent on other product categories.
   sol:  if shaving creams sales increases then shaving blades also increases
@@ -19,4 +19,4 @@ Th following are the questions to be answered:
 
 
 
-           526162
+          
